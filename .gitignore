@@ -1,0 +1,19 @@
+# Simulation outputs
+*.out
+*.vcd
+*.fst
+*.log
+*.wlf
+
+# Build folders
+sim_build/
+obj_dir/
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
